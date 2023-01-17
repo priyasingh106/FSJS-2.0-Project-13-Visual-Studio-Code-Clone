@@ -4,6 +4,8 @@
 
 ![](https://img.shields.io/badge/HTML-Tailwind-blue)
 
+## [Live Project Link](https://classy-palmier-471457.netlify.app/)
+
 ![vscode](./assets/template.png)
 
 ### My learning:
